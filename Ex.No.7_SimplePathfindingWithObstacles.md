@@ -78,15 +78,10 @@ void Start()
 For smooth movement(optional)  -> use  
 float movement = Mathf.PingPong(Time.time * moveSpeed, moveDistance) - moveDistance / 2;
 transform.position = startPos + new Vector3(movement, 0, 0);
+
 ### Output:
 
-
-
-
-
-
-
-
+<img width="903" height="964" alt="Screenshot 2026-03-09 211252" src="https://github.com/user-attachments/assets/7809c563-6ed9-4242-90cf-667496faad36" />
 
 ### Result:
 Thus the simple path finding  behavior was implemented using AI navigation successfully.
