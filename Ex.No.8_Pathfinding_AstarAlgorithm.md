@@ -136,15 +136,18 @@ Check the following
 2. Neighbors set manually via Inspector
 3. WaypointGraph script on a manager
 4. AICharacter assigned a start and goal
+```
 ### Output:
 
+### Initial position:
 
+<img width="573" height="351" alt="image" src="https://github.com/user-attachments/assets/9381005b-586d-479d-bd70-0aec37d2722a" />
 
+### Output
 
-
-
-
-
+<img width="537" height="285" alt="image" src="https://github.com/user-attachments/assets/0a25b62f-f3d2-4c67-9a64-1b4e2bf42f1f" />
+<img width="538" height="285" alt="image" src="https://github.com/user-attachments/assets/61dc594f-c1ff-4715-bf9f-420f106f2637" />
+<img width="483" height="262" alt="image" src="https://github.com/user-attachments/assets/c4a68c46-4e65-4443-a1bd-4a80ab775d74" />
 
 ### Result:
 Thus the pathfinding algorithm was sucessfully implemented.
